@@ -61,11 +61,6 @@ air-canvas/
 
 ---
 
-## 📸 Preview:
-> (You can include a screenshot here of your air canvas running)
-
----
-
 ## 🧠 What I Learned:
 - How to work with OpenCV and webcams.
 - Basics of hand landmark detection using MediaPipe.
