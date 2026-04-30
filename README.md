@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Made By:
 **Akash Karn**  
-B.Tech CSE (AIML) – 1st Year  
+B.Tech CSE (AIML) – 2nd Year  
 Quantum School of Technology
 
 ---
