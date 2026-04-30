@@ -5,7 +5,6 @@
 B.Tech CSE (AIML) – 2nd Year  
 Quantum School of Technology
 
----
 
 ## 📌 Project Description:
 This is my mini-project where I have created a virtual air canvas using Python. In this project, I use my hand (index finger) to draw in the air and the computer detects it using the webcam. It's like magic—no mouse or stylus is needed!
